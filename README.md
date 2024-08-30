@@ -1,5 +1,5 @@
 # EduVote
-
+![Logo](logo.png)
 EduVote is an education-themed Web3 voting application designed to facilitate secure, transparent, and tamper-proof voting for school and college elections. Leveraging blockchain technology, EduVote ensures that every vote is immutably recorded, fostering trust in student governance and promoting democratic participation.
 
 ## Features
